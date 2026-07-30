@@ -14,7 +14,5 @@
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
-| Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
-| Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
-| Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
+
 
