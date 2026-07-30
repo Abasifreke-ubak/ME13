@@ -8,7 +8,7 @@
 | Ekpobo, Mfon Akai| [mfonekpobo](https://github.com/mfonekpobo) | 22/EG/ME/1776 |
 | Emmanuel Benjamin Augustine| [whyte1696](https://github.com/member3) | 22/EG/ME/1696 |
 | Friday, Joel Emmanuel| [Joelemma23](https://github.com/Joelemma23) | 22/EG/ME/1786 |
-| Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
+| Okpokpong Daniel Lawrence| [Okpokpongdaniel345](https://github.com/okpokpongdaniel345) | 22/EG/ME/1746|
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
