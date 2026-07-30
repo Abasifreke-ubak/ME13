@@ -11,7 +11,7 @@
 | Okpokpong Daniel Lawrence| [Okpokpongdaniel345](https://github.com/okpokpongdaniel345) | 22/EG/ME/1746|
 | Effiong, Edidiong Mfon| [abilitymfon7-stack](https://github.com/abilitymfon7-stack) | 22/EG/ME/1726 |
 | mba Vïctor chidera|[Vïctor](https://github.com/Victor) | 22/EG/ME/1736 |
-| Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
+| Mkpanam Donald Edem| [mkpanamdonald05] , (https://github.com/mkpanamdonald05 |22/EG/ME/1706 |
 | wiilie Nsongurua Aniefiok| [CodEdboo](https://github.com/CodEdboo) | 22/EG/ME/1806 |
 | Cletus smart Daniel | [smartcletus0-cy](https://github.com/smartcletus0-cy) | 22/EG/ME/1796 |
 
