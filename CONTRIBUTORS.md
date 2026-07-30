@@ -13,6 +13,6 @@
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
 | Member Three | [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
 | wiilie Nsongurua Aniefiok| [CodEdboo](https://github.com/CodEdboo) | 22/EG/ME/1806 |
-| Member T| [@member3](https://github.com/member3) | 22/EG/ME/XXXX |
+| Cletus smart Daniel | [smartcletus0-cy](https://github.com/smartcletus0-cy) | 22/EG/ME/1796 |
 
 
