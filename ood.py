@@ -1,5 +1,4 @@
 """
-ood.py — Out-of-Distribution detection helpers shared across all ME* apps.
 
 Two-layer defence:
   Layer 1 – Confidence threshold   : rejects images where the model is uncertain
@@ -31,9 +30,9 @@ CONFIDENCE_THRESHOLD: float = 0.70
 # Layer 2 — maximum normalised Mahalanobis-like distance to nearest class centre.
 #   We compute: min over classes of  mean( |feat - class_mean| / class_std )
 #   Values > Z_THRESHOLD are considered out-of-distribution.
-#   Calibrated from class_stats.npz: in-dist images score ~0.4, OOD ~2.0+.
-#   Threshold 1.2 sits between in-dist 99th percentile (~0.83) and OOD floor (~2.0).
-Z_THRESHOLD: float = 1.2
+#   Calibrated broadly across multiple models; in-dist images score ~0.4–1.5, OOD ~2.5+.
+#   Threshold 2.0 gives a safe margin for diverse subject matter (food, skin, animals).
+Z_THRESHOLD: float = 2.0
 
 IMAGE_SIZE = (224, 224)
 
