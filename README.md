@@ -21,7 +21,7 @@ streamlit run app.py
 
 The app will open automatically at **http://localhost:8501**
 
-**Streamlit Cloud URL:** **
+**Streamlit Cloud URL:** *https://potatoblight.streamlit.app/*
 
 ---
 
